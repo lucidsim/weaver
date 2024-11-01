@@ -1,6 +1,6 @@
 # Weaver: Text-to-Image Module for LucidSim
 
-### [🌐 Project Website](https://lucidsim.github.io) | [📝 Paper](https://openreview.net/forum?id=cGswIOxHcN) | [🎥 Video](https://youtube.com/)
+### [🌐 Project Website](https://lucidsim.github.io) | [📝 Paper](https://openreview.net/forum?id=cGswIOxHcN) | [🎥 Video](https://www.youtube.com/watch?v=Xf-1zvt-4n8)
 
 **LucidSim:** Learning Visual Parkour from Generated Images
 
