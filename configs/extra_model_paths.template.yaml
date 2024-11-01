@@ -1,0 +1,4 @@
+comfyui:
+  checkpoints: /path/to/checkpoints
+  controlnet: /path/to/controlnets
+  vae: /path/to/encoders 

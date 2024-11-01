@@ -1,0 +1,16 @@
+.idea
+.DS_Store
+.env
+
+.secret.yml
+*.secret
+
+__pycache__
+*.egg-info
+*.eggs
+*.wheels
+
+dist
+build
+_build
+

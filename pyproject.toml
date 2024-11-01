@@ -1,0 +1,26 @@
+[project]
+name = "weaver"
+version = "0.1.0"
+description = "Weaver: Text-to-Image Module for LucidSim"
+authors = [
+    { name = "Alan Yu", email = "alanyu@csail.mit.edu" },
+    { name = "Ge Yang", email = "geyang@csail.mit.edu" },
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+dependencies = [
+    "numpy==1.26.3",
+    "params_proto"
+]
+
+[project.urls]
+"Homepage" = "https://lucidsim.github.io"
+"Source" = "https://github.com/lucidsim/weaver"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["weaver*"]
